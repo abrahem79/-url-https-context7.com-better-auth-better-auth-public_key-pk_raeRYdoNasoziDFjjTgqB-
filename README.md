@@ -1,4 +1,4 @@
-<p align="center">
+  ( <p align="center">
   <picture>
     <source srcset="./banner-dark.png" media="(prefers-color-scheme: dark)">
     <source srcset="./banner.png" media="(prefers-color-scheme: light)">
